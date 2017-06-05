@@ -1,0 +1,34 @@
+[
+  {
+    "name": "blocked",
+    "color": "#ff6600"
+  },
+  {
+    "name": "bug",
+    "color": "#ee0701"
+  },
+  {
+    "name": "enhancement",
+    "color": "#84b6eb"
+  },
+  {
+    "name": "feature",
+    "color": "#1d76db"
+  },
+  {
+    "name": "in-progress",
+    "color": "#d4c5f9"
+  },
+  {
+    "name": "question",
+    "color": "#cc317c"
+  },
+  {
+    "name": "ready-to-merge",
+    "color": "#c2e0c6"
+  },
+  {
+    "name": "rfc",
+    "color": "#fbca04"
+  }
+]
