@@ -1,6 +1,22 @@
-# NewAperio Github Labels
+# NewAperio GitHub Labels
 
-This repo contains JSON files that describe the way we set up Github labels for our projects at NewAperio. These JSON packages are designed to be used with [git-labelmaker](https://github.com/himynameisdave/git-labelmaker).
+This repo contains JSON files that describe the way we set up GitHub labels for our projects at [NewAperio](https://newaperio.com). These JSON packages are designed to be used with [git-labelmaker](https://github.com/himynameisdave/git-labelmaker).
+
+## Usage
+
+In a new repo, you probably want to first delete GitHub's default labels:
+
+```bash
+git-labelmaker # then select option 4 "Remove All Labels"
+```
+
+Then you can create labels using one of the sets here. Clone the repo and then run the command:
+
+```bash
+git-labelmaker # then select option 2 "Add Labels From Package"
+               # provide *full* filepath to one of the JSON files
+               # e.g. /Users/newaperio/code/github-labels/code.json
+```
 
 ## Code
 
