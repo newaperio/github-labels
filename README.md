@@ -1,6 +1,6 @@
 # NewAperio GitHub Labels
 
-This repo contains JSON files that describe the way we set up GitHub labels for our projects at [NewAperio](https://newaperio.com). These JSON packages are designed to be used with [git-labelmaker](https://github.com/himynameisdave/git-labelmaker).
+This repo contains JSON files that describe the way we set up GitHub labels for our projects at [NewAperio](https://newaperio.com). These are the labels we use with [Custodian](https://github.com/newaperio/custodian), our GitHub bot. The JSON files are designed to be used with [git-labelmaker](https://github.com/himynameisdave/git-labelmaker).
 
 ## Usage
 
