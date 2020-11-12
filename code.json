@@ -1,39 +1,11 @@
 [
   {
-    "name": "api",
-    "color": "#000000"
-  },
-  {
     "name": "blocked",
     "color": "#ff6600"
   },
   {
-    "name": "bug",
-    "color": "#ee0701"
-  },
-  {
-    "name": "database",
-    "color": "#000000"
-  },
-  {
-    "name": "documentation",
-    "color": "#000000"
-  },
-  {
-    "name": "enhancement",
-    "color": "#84b6eb"
-  },
-  {
-    "name": "feature",
-    "color": "#1d76db"
-  },
-  {
     "name": "in-progress",
     "color": "#d4c5f9"
-  },
-  {
-    "name": "infra",
-    "color": "#000000"
   },
   {
     "name": "needs-review",
@@ -46,9 +18,5 @@
   {
     "name": "ready-to-merge",
     "color": "#c2e0c6"
-  },
-  {
-    "name": "testing",
-    "color": "#000000"
   }
 ]
