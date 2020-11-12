@@ -33,3 +33,19 @@ Since we don't use GitHub for project management, the labels only describe Pull 
 | `needs-review`   | yellow     | Denotes a PR that is finished and is awaiting peer review; applied by Custodian |
 | `question`       | magenta    | Signals a stalled issue because of outstanding question(s)                      |
 | `ready-to-merge` | green      | Denotes a PR that has been reviewed and approved; applied by Custodian          |
+
+## License
+
+This repo is Copyright © 2017 NewAperio. It is free software, and may be
+redistributed under the terms specified in the [LICENSE](/LICENSE) file.
+
+## About NewAperio
+
+This repo was written by NewAperio, LLC.
+
+NewAperio is a web and mobile design and development studio. We offer [expert
+software design and development][services] as part of our portfolio of services.
+[Get in touch][contact] to see how our team can help you.
+
+[services]: https://newaperio.com/services?utm_source=github
+[contact]: https://newaperio.com/contact?utm_source=github
