@@ -26,10 +26,10 @@ These are the labels we use on repos that contain the main working code for our 
 
 Since we don't use GitHub for project management, the labels only describe Pull Request statuses.
 
-| Name             | Color      | Category | Description                                                                     |
-|------------------|------------|----------|---------------------------------------------------------------------------------|
-| `blocked`        | orange     | status   | Signals an issue is blocked by extenuating circumstances                        |
-| `in-progress`    | purple     | status   | Denotes an issue actively being worked on; applied by Custodian                 |
-| `needs-review`   | yellow     | status   | Denotes a PR that is finished and is awaiting peer review; applied by Custodian |
-| `question`       | magenta    | status   | Signals a stalled issue because of outstanding question(s)                      |
-| `ready-to-merge` | green      | status   | Denotes a PR that has been reviewed and approved; applied by Custodian          |
+| Name             | Color      | Description                                                                     |
+|------------------|------------|---------------------------------------------------------------------------------|
+| `blocked`        | orange     | Signals an issue is blocked by extenuating circumstances                        |
+| `in-progress`    | purple     | Denotes an issue actively being worked on; applied by Custodian                 |
+| `needs-review`   | yellow     | Denotes a PR that is finished and is awaiting peer review; applied by Custodian |
+| `question`       | magenta    | Signals a stalled issue because of outstanding question(s)                      |
+| `ready-to-merge` | green      | Denotes a PR that has been reviewed and approved; applied by Custodian          |
