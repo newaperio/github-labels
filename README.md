@@ -37,7 +37,7 @@ Since we don't use GitHub for project management, the labels only describe Pull 
 ## License
 
 This repo is Copyright © 2017 NewAperio. It is free software, and may be
-redistributed under the terms specified in the [LICENSE](/LICENSE) file.
+redistributed under the terms specified in the [LICENSE](/LICENSE.md) file.
 
 ## About NewAperio
 
